@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\AiplBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B39222-297E-8295-FBD2-650669E22C94}|..\\..\\AiplBlazor\\Server\\src\\Application\\Application.csproj|d:\\aiplblazor\\server\\src\\application\\common\\constants\\usercachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B39222-297E-8295-FBD2-650669E22C94}|..\\..\\AiplBlazor\\Server\\src\\Application\\Application.csproj|d:\\aiplblazor\\server\\src\\application\\common\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:65143326:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1958737413:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1413363069:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:610517670:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:54589048:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1326889694:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:781515350:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserCacheKeys.cs",
+              "DocumentMoniker": "D:\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\UserCacheKeys.cs",
+              "RelativeDocumentMoniker": "..\\..\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\UserCacheKeys.cs",
+              "ToolTip": "D:\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\UserCacheKeys.cs",
+              "RelativeToolTip": "..\\..\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\UserCacheKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:55:20.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "..\\..\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\Roles.cs",
+              "ToolTip": "D:\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\Roles.cs",
+              "RelativeToolTip": "..\\..\\AiplBlazor\\Server\\src\\Application\\Common\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:55:13.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
